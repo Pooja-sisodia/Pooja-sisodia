@@ -2,7 +2,7 @@
 <img src="https://komarev.com/ghpvc/?username=Pooja-sisodia&label=Profile%20views&color=0e75b6&style=flat" alt="Pooja-sisodia" />
 <h2>A Dedicated Indian Backend Programmer.</h2>
 
-<p align="center"><strong>About Me:</strong> hello ,i am from Ujjain. I graduated from SVVV Indore and am currently a TA at FunctionUp Platform. My technical skills include HTML, CSS, JavaScript, Node.js, MongoDB, and React. I am dedicated to building my career in the IT field and have already created a number of projects including URL shorteners, Open Intern Sites, Shopping Sites, Blog Management, and Book Management. I am also actively working on other projects that I plan to add in the near future. My main interest is to become a full stack developer and I am constantly working towards this goal by learning and experimenting with different technologies.an to add in the near future.</p>
+<p align="center"><strong>About Me:</strong> "Hi there! I am a tech individual with a passion for coding and problem-solving. With experience in various programming languages and a track record of delivering quality projects, I am always seeking new challenges and opportunities to grow my skills. My GitHub profile showcases some of my work and serves as a platform for collaboration with others in the developer community. Let's connect and build great things together!"</p>
 
 - 🔭 I’m currently working on **Build my career in IT Field**
 
