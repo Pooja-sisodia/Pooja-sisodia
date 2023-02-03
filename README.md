@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Indie+Flower&size=70&pause=1000&color=603FD0&center=true&width=900&height=140&lines=%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87+%F0%9F%99%8F%2C+It's++Ashish+Ingle...!)](https://git.io/typing-svg)
+
 <img src="https://komarev.com/ghpvc/?username=Pooja-sisodia&label=Profile%20views&color=0e75b6&style=flat" alt="Pooja-sisodia" />
 <h2>A Dedicated Indian Backend Programmer.</h2>
 
